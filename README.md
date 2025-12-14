@@ -55,7 +55,15 @@ With dedicated time or collaborators, this work could expand into:
 - Comparative case studies across sectors  
 - Design heuristics for preserving signal integrity  
 - Policy-aware system frameworks  
-- Applied guidance for teams operating in high-trust environments  
+- Applied guidance for teams operating in high-trust environments
+
+## Related Repositories
+Some observations in this repository are grounded in documented UX and system design decisions.
+
+- **UX Decision Records**  
+  https://github.com/<your-username>/ux-decision-records
+
+Together, these repositories examine both the *effects* of signal drift and the *decisions* that produce it.
 
 ## Status
 Exploratory and ongoing.
