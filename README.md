@@ -69,3 +69,11 @@ Together, these repositories examine both the *effects* of signal drift and the 
 Exploratory and ongoing.
 
 This repository is intentionally incomplete. It reflects a living line of inquiry rather than a finished position.
+
+## Open Questions
+Some lines of inquiry intentionally remain unresolved, including:
+- how systems detect early trust erosion
+- where automation crosses from support into displacement
+- what signals reliably predict legitimacy loss
+
+These questions will guide future work as capacity allows.
