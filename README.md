@@ -61,7 +61,7 @@ With dedicated time or collaborators, this work could expand into:
 Some observations in this repository are grounded in documented UX and system design decisions.
 
 - **UX Decision Records**  
-  https://github.com/<your-username>/ux-decision-records
+  https://github.com/mattmcclendon/ux-decision-records
 
 Together, these repositories examine both the *effects* of signal drift and the *decisions* that produce it.
 
