@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Signal and Trust Notes"
+message: "If you use or reference this work, please cite it as below."
+type: research
+authors:
+  - family-names: McClendon
+    given-names: Matthew
+year: 2025
+abstract: >
+  Exploratory research notes examining signal integrity, trust erosion,
+  and human-centered system design across civic and institutional contexts.
+license: MIT
+repository-code: https://github.com/mattmcclendon/signal-and-trust-notes
